@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="text">請輸入姓名以開始遊戲</string>
+    <string name="text1">請輸入玩家姓名</string>
+</resources>
